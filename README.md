@@ -1,5 +1,5 @@
 # Pizza-Metrics
-[Data}(https://www.kaggle.com/datasets/shilongzhuang/pizza-sales/)
+[Data](https://www.kaggle.com/datasets/shilongzhuang/pizza-sales/)
 ![Slide1](https://github.com/AkashPissey/Pizza-Metrics-/assets/148358076/b39072cb-fc13-4787-9534-a068287de91f)
 
 ![Slide2](https://github.com/AkashPissey/Pizza-Metrics-/assets/148358076/d363fc20-647e-4c22-be90-e949ce7203a6)
